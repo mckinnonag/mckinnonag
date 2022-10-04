@@ -2,7 +2,7 @@
 
 I'm an IT professional who has taken on significant development work in his current role, I am looking to transition to a software development position after taking several years’ worth of computer science courses. 
 
-🔭 I’m currently working on [moneyapp](github.com/moneyapp), a full-stack web application integrating Plaid and Firebase with a backend using Gin.
+🔭 I’m currently working on [moneyapp](/moneyapp), a full-stack web application integrating Plaid and Firebase with a backend using Gin.
 
 <!--
 **mckinnonag/mckinnonag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
