@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm an IT professional who has taken on significant development work in his current role I'm looking to transition to a software development position after taking several years’ worth of computer science courses. 
+I'm an IT professional who has taken on significant development work in his current role. I'm looking to transition to a software development position after taking several years’ worth of computer science courses. 
 
 🔭 I’m currently working on [moneyapp](https://github.com/mckinnonag/moneyapp), a full-stack web application integrating Plaid and Firebase with a backend using Gin.
 
